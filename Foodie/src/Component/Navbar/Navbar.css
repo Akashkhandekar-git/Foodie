@@ -16,7 +16,7 @@
 }
 
 .navbar-menu a{
-  list-style-type: none;
+  text-decoration: none;
 }
 .navbar-right {
   display: flex;
