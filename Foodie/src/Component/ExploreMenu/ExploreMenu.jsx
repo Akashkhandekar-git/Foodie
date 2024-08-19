@@ -7,8 +7,8 @@ const ExploreMenu = ({ category, setCategory }) => {
     <div className="explore-menu" id="explore-menu">
       <h1>Explore our menu</h1>
       <p className="explore-menu-text">
-        Choose from a diverse menufeaturing a delectable array of dishes
-        creafted with the finest ingredients
+        Choose from a diverse menu featuring a delectable array of dishes
+        creafted with the finest ingredients..!
       </p>
 
       <div className="explore-menu-list">
